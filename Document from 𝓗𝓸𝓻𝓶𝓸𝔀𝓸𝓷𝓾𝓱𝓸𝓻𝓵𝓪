@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurant Website</title>
+    </head>
+<body>
+    <header>
+        <div class="container">
+           <img src="logo.png" alt="Kapital Kitchen Logo" class="logo" width="10%">
+            <h1>Kapital Kitchen</h1>
+            <nav>
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#menu">Menu</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="home">
+        <div class="container">
+            <h2>Welcome to our restaurant!</h2>
+            <p>Welcome to Kapital Kitchen!
+               Indulge in a culinary journey where flavors meet sophistication. At Kapital Kitchen, we strive to elevate your dining experience with exquisite dishes crafted from the finest ingredients. From hearty classics to innovative creations, our menu is designed to tantalize your taste buds and leave you craving for more.
+               Join us and savor the essence of culinary excellence, where every bite tells a story of passion and dedication. Whether you're here for a casual meal or a special occasion, our team is committed to delivering impeccable service in an inviting atmosphere.
+               Thank you for choosing Kapital Kitchen. We look forward to serving you soon!
+            </p>
+        </div>
+    </section>
+
+    <section id="menu">
+        <div class="container">
+            <h2>Our Menu</h2>
+            <ul>
+                <li>Nkwobi sauce</li>
+                <li>Menudo</li>
+                <li>Efo Riro</li>
+                <li>Fried spicy bananas</li>
+                <li>Tamales (Moi moi) ...</li>
+                <li>Beef patty</li>
+                <li>Jambalaya</li>
+               <li>Hush Puppies</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="about">
+        <div class="container">
+            <h2>About Us</h2>
+            <p>Discover the heart and soul behind Kapital Kitchen.
+                Founded on the principles of culinary innovation and hospitality, Kapital Kitchen is more than just a restaurant—it's a destination where food becomes an experience. Nestled in the heart of the city, our establishment is a testament to a shared love for exceptional cuisine and genuine hospitality.
+                At Kapital Kitchen, we believe in sourcing the freshest ingredients locally and globally, ensuring every dish is a masterpiece of flavor and quality. Our talented chefs bring years of expertise to the kitchen, crafting a menu that celebrates both tradition and creativity.
+                But beyond the food, it's the warmth of our service and the inviting ambiance that truly sets us apart. Whether you're joining us for a casual meal with friends or a memorable celebration, our team is dedicated to ensuring your time with us is nothing short of extraordinary.
+                Welcome to Kapital Kitchen—where every moment is a celebration of food, community, and shared experiences.</p>
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <h2>Contact Us</h2>
+            <p>Connect with Kapital Kitchen today!<br>
+                Address: [Insert Address Here] <br>
+                Phone: [Insert Phone Number Here] <br>
+                Email: [Insert Email Address Here] <br>
+                Have a question, comment, or reservation request? Feel free to reach out to us via phone or email, or simply fill out the contact form below. Our team is here to assist you and ensure your experience at Kapital Kitchen is nothing short of exceptional.
+                <br>
+                Follow us on social media to stay updated on the latest news, promotions, and mouthwatering dishes from our kitchen. We can't wait to hear from you!</p>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Kapital Kitchen. All rights reserved.</p>
+        </div>
+    </footer>
+
+   
+</body>
+</html>
